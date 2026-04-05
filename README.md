@@ -7,3 +7,8 @@ While stigmergy is often modeled through stable traces in computational and biol
 The project includes experimental processes, installation development and performative interactions with clay, where gesture and material response continuously reshape each other.
 
 This repository focuses on material experimentation and complements a theoretical dissertation and computational models developed in parallel.
+
+![Active deformation](clay-collapsing.jpg)
+
+**Figure 2 — Active deformation of the ceramic form during wheel-throwing.**  
+The image captures a moment in which manual intervention and material response coexist, revealing the emergent and stigmergic nature of form generation.
